@@ -1,0 +1,4 @@
+[01.12.2025] log #log: program started
+[01.12.2025] log #log: program loading!
+[01.12.2025] bot 8787: new command /console by 6049462351
+[01.12.2025] bot 8787: new command /console by 6049462351

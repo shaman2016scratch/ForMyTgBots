@@ -7,4 +7,4 @@
 
 log #log: program loading!
 log #log: program loading!
-log #log: program started
+log #log: program loading!

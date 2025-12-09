@@ -6,4 +6,4 @@
 [comment] [08.12.2025] Database for console №1 bots
 
 log #log: program loading!
-log #log: program started
+log #log: program loading!
